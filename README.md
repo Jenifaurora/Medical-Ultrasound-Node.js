@@ -11,6 +11,15 @@ Providing a web interface to medical professionals. (I'm trying hard for it man 
 Well well well, I am an expert at MongoDB so it won't be an issue.
 Below is a simple example of how you might set this up using Node.js, Express, and MongoDB. 
 
+### Content (In python type, API data)
+* [DummyLoader](DummyLoader/) - Example loader library
+* [Image3dAPI](Image3dAPI/)   - API definitions
+* [PackagingGE](PackagingGE/) - NuGet packaging configuration
+* [RegFreeTest](RegFreeTest/) - Example of how to leverage manifest files to avoid COM registration
+* [SandboxTest](SandboxTest/) - Example of how to sandbox a loader in a separate process
+* [TestPython](TestPython/)   - Python-based sample code
+* [TestViewer](TestViewer/)   - Simple .NET-based image viewer
+
 /ultrasound-app
 |-- /models
 |   |-- Patient.js
