@@ -1,0 +1,4 @@
+mkdir ultrasound-app
+cd ultrasound-app
+npm init -y
+npm install express mongoose multer body-parser
