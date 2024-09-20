@@ -1,9 +1,9 @@
-# Medical-Ultrasound-Node.js
+# Medical-Ultrasound-Node.js 🔥
 Ultrasound to patient and patient to Ultrasound relaying via my style in Javascript (Node.js) IMAGING
 
 Trained deep net module for an ultrasound imaging. It is made on C programming and CodeWarrior IDE. What if we process faster imaging by javascript relays? This is my code on how it could work, it's my research, kindly comment on it and tell your thoughts. I believe there are better machines than Ultrasound, but this code might help, I MEAN MIGHT HELP, for low profit organisations with just java.
 
-# How do I pull this?
+# How do I pull this? 🔥
 Creating a Node.js application for managing ultrasound data in a medical setting involves several components, including handling patient data, storing ultrasound images. 
 
 # How to verify this?
